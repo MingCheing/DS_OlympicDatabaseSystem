@@ -1,0 +1,876 @@
+event,sport_code,medal_code,medal_type,name,medal_date
+Men's Individual,ARC,1,Gold,KIM Woojin,2024-08-04
+Men's Individual,ARC,2,Silver,Brady ELLISON,2024-08-04
+Men's Individual,ARC,3,Bronze,LEE Wooseok,2024-08-04
+Women's Individual,ARC,1,Gold,LIM Sihyeon,2024-08-03
+Women's Individual,ARC,2,Silver,NAM Suhyeon,2024-08-03
+Women's Individual,ARC,3,Bronze,Lisa BARBELIN,2024-08-03
+Marathon Race Walk Relay Mixed,ATH,1,Gold,MARTIN A/PEREZ M,2024-08-07
+Marathon Race Walk Relay Mixed,ATH,2,Silver,PINTADO B/MOREJON G,2024-08-07
+Marathon Race Walk Relay Mixed,ATH,3,Bronze,COWLEY R/MONTAG J,2024-08-07
+"Men's 10,000m",ATH,1,Gold,Joshua CHEPTEGEI,2024-08-02
+"Men's 10,000m",ATH,2,Silver,Berihu AREGAWI,2024-08-02
+"Men's 10,000m",ATH,3,Bronze,Grant FISHER,2024-08-02
+Men's 100m,ATH,1,Gold,Noah LYLES,2024-08-04
+Men's 100m,ATH,2,Silver,Kishane THOMPSON,2024-08-04
+Men's 100m,ATH,3,Bronze,Fred KERLEY,2024-08-04
+Men's 110m Hurdles,ATH,1,Gold,Grant HOLLOWAY,2024-08-08
+Men's 110m Hurdles,ATH,2,Silver,Daniel ROBERTS,2024-08-08
+Men's 110m Hurdles,ATH,3,Bronze,Rasheed BROADBELL,2024-08-08
+Men's 1500m,ATH,1,Gold,Cole HOCKER,2024-08-06
+Men's 1500m,ATH,2,Silver,Josh KERR,2024-08-06
+Men's 1500m,ATH,3,Bronze,Yared NUGUSE,2024-08-06
+Men's 200m,ATH,1,Gold,Letsile TEBOGO,2024-08-08
+Men's 200m,ATH,2,Silver,Kenneth BEDNAREK,2024-08-08
+Men's 200m,ATH,3,Bronze,Noah LYLES,2024-08-08
+Men's 20km Race Walk,ATH,1,Gold,Brian Daniel PINTADO,2024-08-01
+Men's 20km Race Walk,ATH,2,Silver,Caio BONFIM,2024-08-01
+Men's 20km Race Walk,ATH,3,Bronze,Alvaro MARTIN,2024-08-01
+Men's 3000m Steeplechase,ATH,1,Gold,Soufiane EL BAKKALI,2024-08-07
+Men's 3000m Steeplechase,ATH,2,Silver,Kenneth ROOKS,2024-08-07
+Men's 3000m Steeplechase,ATH,3,Bronze,Abraham KIBIWOT,2024-08-07
+Men's 400m,ATH,1,Gold,Quincy HALL,2024-08-07
+Men's 400m,ATH,2,Silver,Matthew HUDSON-SMITH,2024-08-07
+Men's 400m,ATH,3,Bronze,Muzala SAMUKONGA,2024-08-07
+Men's 400m Hurdles,ATH,1,Gold,Rai BENJAMIN,2024-08-09
+Men's 400m Hurdles,ATH,2,Silver,Karsten WARHOLM,2024-08-09
+Men's 400m Hurdles,ATH,3,Bronze,Alison dos SANTOS,2024-08-09
+Men's 5000m,ATH,1,Gold,Jakob INGEBRIGTSEN,2024-08-10
+Men's 5000m,ATH,2,Silver,Ronald KWEMOI,2024-08-10
+Men's 5000m,ATH,3,Bronze,Grant FISHER,2024-08-10
+Men's 800m,ATH,1,Gold,Emmanuel WANYONYI,2024-08-10
+Men's 800m,ATH,2,Silver,Marco AROP,2024-08-10
+Men's 800m,ATH,3,Bronze,Djamel SEDJATI,2024-08-10
+Men's Decathlon,ATH,1,Gold,Markus ROOTH,2024-08-03
+Men's Decathlon,ATH,2,Silver,Leo NEUGEBAUER,2024-08-03
+Men's Decathlon,ATH,3,Bronze,Lindon VICTOR,2024-08-03
+Men's Discus Throw,ATH,1,Gold,Roje STONA,2024-08-07
+Men's Discus Throw,ATH,2,Silver,Mykolas ALEKNA,2024-08-07
+Men's Discus Throw,ATH,3,Bronze,Matthew DENNY,2024-08-07
+Men's Hammer Throw,ATH,1,Gold,Ethan KATZBERG,2024-08-04
+Men's Hammer Throw,ATH,2,Silver,Bence HALASZ,2024-08-04
+Men's Hammer Throw,ATH,3,Bronze,Mykhaylo KOKHAN,2024-08-04
+Men's High Jump,ATH,1,Gold,Hamish KERR,2024-08-10
+Men's High Jump,ATH,2,Silver,Shelby McEWEN,2024-08-10
+Men's High Jump,ATH,3,Bronze,Mutaz Essa BARSHIM,2024-08-10
+Men's Javelin Throw,ATH,1,Gold,Arshad NADEEM,2024-08-08
+Men's Javelin Throw,ATH,2,Silver,Neeraj CHOPRA,2024-08-08
+Men's Javelin Throw,ATH,3,Bronze,Anderson PETERS,2024-08-08
+Men's Long Jump,ATH,1,Gold,Miltiadis TENTOGLOU,2024-08-06
+Men's Long Jump,ATH,2,Silver,Wayne PINNOCK,2024-08-06
+Men's Long Jump,ATH,3,Bronze,Mattia FURLANI,2024-08-06
+Men's Marathon,ATH,1,Gold,Tamirat TOLA,2024-08-10
+Men's Marathon,ATH,2,Silver,Bashir ABDI,2024-08-10
+Men's Marathon,ATH,3,Bronze,Benson KIPRUTO,2024-08-10
+Men's Pole Vault,ATH,1,Gold,Armand DUPLANTIS,2024-08-05
+Men's Pole Vault,ATH,2,Silver,Sam KENDRICKS,2024-08-05
+Men's Pole Vault,ATH,3,Bronze,Emmanouil KARALIS,2024-08-05
+Men's Shot Put,ATH,1,Gold,Ryan CROUSER,2024-08-03
+Men's Shot Put,ATH,2,Silver,Joe KOVACS,2024-08-03
+Men's Shot Put,ATH,3,Bronze,Rajindra CAMPBELL,2024-08-03
+Men's Triple Jump,ATH,1,Gold,Jordan Alejandro DIAZ FORTUN,2024-08-09
+Men's Triple Jump,ATH,2,Silver,Pedro PICHARDO,2024-08-09
+Men's Triple Jump,ATH,3,Bronze,Andy DIAZ HERNANDEZ,2024-08-09
+"Women's 10,000m",ATH,1,Gold,Beatrice CHEBET,2024-08-09
+"Women's 10,000m",ATH,2,Silver,Nadia BATTOCLETTI,2024-08-09
+"Women's 10,000m",ATH,3,Bronze,Sifan HASSAN,2024-08-09
+Women's 100m,ATH,1,Gold,Julien ALFRED,2024-08-03
+Women's 100m,ATH,2,Silver,Sha'carri RICHARDSON,2024-08-03
+Women's 100m,ATH,3,Bronze,Melissa JEFFERSON,2024-08-03
+Women's 100m Hurdles,ATH,1,Gold,Masai RUSSELL,2024-08-10
+Women's 100m Hurdles,ATH,2,Silver,Cyrena SAMBA-MAYELA,2024-08-10
+Women's 100m Hurdles,ATH,3,Bronze,Jasmine CAMACHO-QUINN,2024-08-10
+Women's 1500m,ATH,1,Gold,Faith KIPYEGON,2024-08-10
+Women's 1500m,ATH,2,Silver,Jessica HULL,2024-08-10
+Women's 1500m,ATH,3,Bronze,Georgia BELL,2024-08-10
+Women's 200m,ATH,1,Gold,Gabrielle THOMAS,2024-08-06
+Women's 200m,ATH,2,Silver,Julien ALFRED,2024-08-06
+Women's 200m,ATH,3,Bronze,Brittany BROWN,2024-08-06
+Women's 20km Race Walk,ATH,1,Gold,YANG Jiayu,2024-08-01
+Women's 20km Race Walk,ATH,2,Silver,Maria PEREZ,2024-08-01
+Women's 20km Race Walk,ATH,3,Bronze,Jemima MONTAG,2024-08-01
+Women's 3000m Steeplechase,ATH,1,Gold,Winfred YAVI,2024-08-06
+Women's 3000m Steeplechase,ATH,2,Silver,Peruth CHEMUTAI,2024-08-06
+Women's 3000m Steeplechase,ATH,3,Bronze,Faith CHEROTICH,2024-08-06
+Women's 400m,ATH,1,Gold,Marileidy PAULINO,2024-08-09
+Women's 400m,ATH,2,Silver,Salwa Eid NASER,2024-08-09
+Women's 400m,ATH,3,Bronze,Natalia KACZMAREK,2024-08-09
+Women's 400m Hurdles,ATH,1,Gold,Sydney McLAUGHLIN-LEVRONE,2024-08-08
+Women's 400m Hurdles,ATH,2,Silver,Anna COCKRELL,2024-08-08
+Women's 400m Hurdles,ATH,3,Bronze,Femke BOL,2024-08-08
+Women's 5000m,ATH,1,Gold,Beatrice CHEBET,2024-08-05
+Women's 5000m,ATH,2,Silver,Faith KIPYEGON,2024-08-05
+Women's 5000m,ATH,3,Bronze,Sifan HASSAN,2024-08-05
+Women's 800m,ATH,1,Gold,Keely HODGKINSON,2024-08-05
+Women's 800m,ATH,2,Silver,Tsige DUGUMA,2024-08-05
+Women's 800m,ATH,3,Bronze,Mary MORAA,2024-08-05
+Women's Discus Throw,ATH,1,Gold,Valarie ALLMAN,2024-08-05
+Women's Discus Throw,ATH,2,Silver,FENG Bin,2024-08-05
+Women's Discus Throw,ATH,3,Bronze,Sandra ELKASEVIC,2024-08-05
+Women's Hammer Throw,ATH,1,Gold,Camryn ROGERS,2024-08-06
+Women's Hammer Throw,ATH,2,Silver,Annette Nneka ECHIKUNWOKE,2024-08-06
+Women's Hammer Throw,ATH,3,Bronze,ZHAO Jie,2024-08-06
+Women's Heptathlon,ATH,1,Gold,THIAM Nafissatou,2024-08-09
+Women's Heptathlon,ATH,2,Silver,JOHNSON-THOMPSON Katarina,2024-08-09
+Women's Heptathlon,ATH,3,Bronze,VIDTS Noor,2024-08-09
+Women's High Jump,ATH,1,Gold,Yaroslava MAHUCHIKH,2024-08-04
+Women's High Jump,ATH,2,Silver,Nicola OLYSLAGERS,2024-08-04
+Women's High Jump,ATH,3,Bronze,Iryna GERASHCHENKO,2024-08-04
+Women's High Jump,ATH,3,Bronze,Eleanor PATTERSON,2024-08-04
+Women's Javelin Throw,ATH,1,Gold,KITAGUCHI Haruka,2024-08-10
+Women's Javelin Throw,ATH,2,Silver,Jo-Ane van DYK,2024-08-10
+Women's Javelin Throw,ATH,3,Bronze,Nikola OGRODNIKOVA,2024-08-10
+Women's Long Jump,ATH,1,Gold,Tara DAVIS-WOODHALL,2024-08-08
+Women's Long Jump,ATH,2,Silver,Malaika MIHAMBO,2024-08-08
+Women's Long Jump,ATH,3,Bronze,Jasmine MOORE,2024-08-08
+Women's Marathon,ATH,1,Gold,Sifan HASSAN,2024-08-11
+Women's Marathon,ATH,2,Silver,Tigst ASSEFA,2024-08-11
+Women's Marathon,ATH,3,Bronze,Hellen OBIRI,2024-08-11
+Women's Pole Vault,ATH,1,Gold,Nina KENNEDY,2024-08-07
+Women's Pole Vault,ATH,2,Silver,Katie MOON,2024-08-07
+Women's Pole Vault,ATH,3,Bronze,Alysha NEWMAN,2024-08-07
+Women's Shot Put,ATH,1,Gold,Yemisi OGUNLEYE,2024-08-09
+Women's Shot Put,ATH,2,Silver,Maddison-Lee WESCHE,2024-08-09
+Women's Shot Put,ATH,3,Bronze,SONG Jiayuan,2024-08-09
+Women's Triple Jump,ATH,1,Gold,Thea LAFOND,2024-08-03
+Women's Triple Jump,ATH,2,Silver,Shanieka RICKETTS,2024-08-03
+Women's Triple Jump,ATH,3,Bronze,Jasmine MOORE,2024-08-03
+Men's Singles,BDM,1,Gold,Viktor AXELSEN,2024-08-05
+Men's Singles,BDM,2,Silver,Kunlavut VITIDSARN,2024-08-05
+Men's Singles,BDM,3,Bronze,Zii Jia LEE,2024-08-05
+Women's Singles,BDM,3,Bronze,Gregoria Mariska TUNJUNG,2024-08-04
+Women's Singles,BDM,1,Gold,AN Se Young,2024-08-05
+Women's Singles,BDM,2,Silver,HE Bing Jiao,2024-08-05
+Men,BMF,1,Gold,Joris DAUDET,2024-08-02
+Men,BMF,2,Silver,Sylvain ANDRE,2024-08-02
+Men,BMF,3,Bronze,Romain MAHIEU,2024-08-02
+Men's Park,BMF,1,Gold,Jose TORRES GIL,2024-07-31
+Men's Park,BMF,2,Silver,Kieran Darren David REILLY,2024-07-31
+Men's Park,BMF,3,Bronze,Anthony JEANJEAN,2024-07-31
+Women,BMF,1,Gold,Saya SAKAKIBARA,2024-08-02
+Women,BMF,2,Silver,Manon VEENSTRA,2024-08-02
+Women,BMF,3,Bronze,Zoe CLAESSENS,2024-08-02
+Women's Park,BMF,1,Gold,DENG Yawen,2024-07-31
+Women's Park,BMF,2,Silver,Perris BENEGAS,2024-07-31
+Women's Park,BMF,3,Bronze,Natalya DIEHM,2024-07-31
+Men's +92kg,BOX,3,Bronze,Nelvie Raman TIAFACK,2024-08-07
+Men's +92kg,BOX,3,Bronze,Djamili-Dini ABOUDOU MOINDZE,2024-08-07
+Men's +92kg,BOX,1,Gold,Bakhodir JALOLOV,2024-08-10
+Men's +92kg,BOX,2,Silver,Ayoub GHADFA DRISSI EL AISSAOUI,2024-08-10
+Men's 51kg,BOX,3,Bronze,Yunior ALCANTARA REYES,2024-08-04
+Men's 51kg,BOX,3,Bronze,David de PINA,2024-08-04
+Men's 51kg,BOX,1,Gold,Hasanboy DUSMATOV,2024-08-08
+Men's 51kg,BOX,2,Silver,Billal BENNAMA,2024-08-08
+Men's 57kg,BOX,3,Bronze,Charlie SENIOR,2024-08-08
+Men's 57kg,BOX,3,Bronze,Javier IBANEZ DIAZ,2024-08-08
+Men's 57kg,BOX,1,Gold,Abdumalik KHALOKOV,2024-08-10
+Men's 57kg,BOX,2,Silver,Munarbek SEIITBEK UULU,2024-08-10
+Men's 63.5kg,BOX,3,Bronze,Wyatt SANFORD,2024-08-04
+Men's 63.5kg,BOX,3,Bronze,Lasha GURULI,2024-08-04
+Men's 63.5kg,BOX,1,Gold,Erislandy ALVAREZ BORGES,2024-08-07
+Men's 63.5kg,BOX,2,Silver,Sofiane OUMIHA,2024-08-07
+Men's 71kg,BOX,3,Bronze,Omari JONES,2024-08-06
+Men's 71kg,BOX,3,Bronze,Lewis RICHARDSON,2024-08-06
+Men's 71kg,BOX,1,Gold,Asadkhuja MUYDINKHUJAEV,2024-08-09
+Men's 71kg,BOX,2,Silver,Marco Alonso VERDE ALVAREZ,2024-08-09
+Men's 80kg,BOX,3,Bronze,Cristian Javier PINALES,2024-08-04
+Men's 80kg,BOX,3,Bronze,Arlen LOPEZ CARDONA,2024-08-04
+Men's 80kg,BOX,1,Gold,Oleksandr KHYZHNIAK,2024-08-07
+Men's 80kg,BOX,2,Silver,Nurbek ORALBAY,2024-08-07
+Men's 92kg,BOX,3,Bronze,Enmanuel REYES PLA,2024-08-04
+Men's 92kg,BOX,3,Bronze,Davlat BOLTAEV,2024-08-04
+Men's 92kg,BOX,1,Gold,Lazizbek MULLOJONOV,2024-08-09
+Men's 92kg,BOX,2,Silver,Loren Berto ALFONSO DOMINGUEZ,2024-08-09
+Women's 50kg,BOX,3,Bronze,Nazym KYZAIBAY,2024-08-06
+Women's 50kg,BOX,3,Bronze,Aira VILLEGAS,2024-08-06
+Women's 50kg,BOX,1,Gold,WU Yu,2024-08-09
+Women's 50kg,BOX,2,Silver,Buse Naz CAKIROGLU,2024-08-09
+Women's 54kg,BOX,3,Bronze,PANG Cholmi,2024-08-04
+Women's 54kg,BOX,3,Bronze,IM Aeji,2024-08-04
+Women's 54kg,BOX,1,Gold,CHANG Yuan,2024-08-08
+Women's 54kg,BOX,2,Silver,Hatice AKBAS,2024-08-08
+Women's 57kg,BOX,3,Bronze,Esra YILDIZ KAHRAMAN,2024-08-07
+Women's 57kg,BOX,3,Bronze,Nesthy PETECIO,2024-08-07
+Women's 57kg,BOX,1,Gold,LIN Yu Ting,2024-08-10
+Women's 57kg,BOX,2,Silver,Julia SZEREMETA,2024-08-10
+Women's 60kg,BOX,3,Bronze,WU Shih Yi,2024-08-03
+Women's 60kg,BOX,3,Bronze,Beatriz Iasmin SOARES FERREIRA,2024-08-03
+Women's 60kg,BOX,1,Gold,Kellie HARRINGTON,2024-08-06
+Women's 60kg,BOX,2,Silver,YANG Wenlu,2024-08-06
+Women's 66kg,BOX,3,Bronze,Janjaem SUWANNAPHENG,2024-08-06
+Women's 66kg,BOX,3,Bronze,CHEN Nien Chin,2024-08-06
+Women's 66kg,BOX,1,Gold,Imane KHELIF,2024-08-09
+Women's 66kg,BOX,2,Silver,YANG Liu,2024-08-09
+Women's 75kg,BOX,3,Bronze,Caitlin PARKER,2024-08-08
+Women's 75kg,BOX,3,Bronze,Cindy Winner DJANKEU NGAMBA,2024-08-08
+Women's 75kg,BOX,1,Gold,LI Qian,2024-08-10
+Women's 75kg,BOX,2,Silver,Atheyna Bibeichi BYLON,2024-08-10
+Men's Boulder & Lead,CLB,1,Gold,Toby ROBERTS,2024-08-09
+Men's Boulder & Lead,CLB,2,Silver,ANRAKU Sorato,2024-08-09
+Men's Boulder & Lead,CLB,3,Bronze,Jakob SCHUBERT,2024-08-09
+Men's Speed,CLB,1,Gold,Veddriq LEONARDO,2024-08-08
+Men's Speed,CLB,2,Silver,WU Peng,2024-08-08
+Men's Speed,CLB,3,Bronze,Sam WATSON,2024-08-08
+Women's Boulder & Lead,CLB,1,Gold,Janja GARNBRET,2024-08-10
+Women's Boulder & Lead,CLB,2,Silver,Brooke RABOUTOU,2024-08-10
+Women's Boulder & Lead,CLB,3,Bronze,Jessica PILZ,2024-08-10
+Women's Speed,CLB,1,Gold,Aleksandra MIROSLAW,2024-08-07
+Women's Speed,CLB,2,Silver,DENG Lijuan,2024-08-07
+Women's Speed,CLB,3,Bronze,Aleksandra KALUCKA,2024-08-07
+Men's Individual Time Trial,CRD,1,Gold,Remco EVENEPOEL,2024-07-27
+Men's Individual Time Trial,CRD,2,Silver,Filippo GANNA,2024-07-27
+Men's Individual Time Trial,CRD,3,Bronze,Wout van AERT,2024-07-27
+Men's Road Race,CRD,1,Gold,Remco EVENEPOEL,2024-08-03
+Men's Road Race,CRD,2,Silver,Valentin MADOUAS,2024-08-03
+Men's Road Race,CRD,3,Bronze,Christophe LAPORTE,2024-08-03
+Women's Individual Time Trial,CRD,1,Gold,Grace BROWN,2024-07-27
+Women's Individual Time Trial,CRD,2,Silver,Anna HENDERSON,2024-07-27
+Women's Individual Time Trial,CRD,3,Bronze,Chloe DYGERT,2024-07-27
+Women's Road Race,CRD,1,Gold,Kristen FAULKNER,2024-08-04
+Women's Road Race,CRD,2,Silver,Marianne VOS,2024-08-04
+Women's Road Race,CRD,3,Bronze,Lotte KOPECKY,2024-08-04
+Men's Canoe Single,CSL,1,Gold,Nicolas GESTIN,2024-07-29
+Men's Canoe Single,CSL,2,Silver,Adam BURGESS,2024-07-29
+Men's Canoe Single,CSL,3,Bronze,Matej BENUS,2024-07-29
+Men's Canoe Single 1000m,CSL,1,Gold,Martin FUKSA,2024-08-09
+Men's Canoe Single 1000m,CSL,2,Silver,Isaquias QUEIROZ,2024-08-09
+Men's Canoe Single 1000m,CSL,3,Bronze,Serghei TARNOVSCHI,2024-08-09
+Men's Kayak Cross,CSL,1,Gold,Finn BUTCHER,2024-08-05
+Men's Kayak Cross,CSL,2,Silver,Joseph CLARKE,2024-08-05
+Men's Kayak Cross,CSL,3,Bronze,Noah HEGGE,2024-08-05
+Men's Kayak Single,CSL,1,Gold,Giovanni de GENNARO,2024-08-01
+Men's Kayak Single,CSL,2,Silver,Titouan CASTRYCK,2024-08-01
+Men's Kayak Single,CSL,3,Bronze,Pau ECHANIZ,2024-08-01
+Men's Kayak Single 1000m,CSL,1,Gold,Josef DOSTAL,2024-08-10
+Men's Kayak Single 1000m,CSL,2,Silver,Adam VARGA,2024-08-10
+Men's Kayak Single 1000m,CSL,3,Bronze,Balint KOPASZ,2024-08-10
+Women's Canoe Single,CSL,1,Gold,Jessica FOX,2024-07-31
+Women's Canoe Single,CSL,2,Silver,Elena LILIK,2024-07-31
+Women's Canoe Single,CSL,3,Bronze,Evy LEIBFARTH,2024-07-31
+Women's Canoe Single 200m,CSL,1,Gold,Katie VINCENT,2024-08-10
+Women's Canoe Single 200m,CSL,2,Silver,Nevin HARRISON,2024-08-10
+Women's Canoe Single 200m,CSL,3,Bronze,Yarisleidis CIRILO DUBOYS,2024-08-10
+Women's Kayak Cross,CSL,1,Gold,Noemie FOX,2024-08-05
+Women's Kayak Cross,CSL,2,Silver,Angele HUG,2024-08-05
+Women's Kayak Cross,CSL,3,Bronze,Kimberley WOODS,2024-08-05
+Women's Kayak Double 500m,CSL,1,Gold,CARRINGTON/HOSKIN,2024-08-09
+Women's Kayak Single,CSL,1,Gold,Jessica FOX,2024-07-28
+Women's Kayak Single,CSL,2,Silver,Klaudia ZWOLINSKA,2024-07-28
+Women's Kayak Single,CSL,3,Bronze,Kimberley WOODS,2024-07-28
+Women's Kayak Single 500m,CSL,1,Gold,Lisa CARRINGTON,2024-08-10
+Women's Kayak Single 500m,CSL,2,Silver,Tamara CSIPES,2024-08-10
+Women's Kayak Single 500m,CSL,3,Bronze,Emma Aastrand JORGENSEN,2024-08-10
+Men's Keirin,CTR,1,Gold,Harrie LAVREYSEN,2024-08-11
+Men's Keirin,CTR,2,Silver,Matthew RICHARDSON,2024-08-11
+Men's Keirin,CTR,3,Bronze,Matthew GLAETZER,2024-08-11
+Men's Omnium,CTR,1,Gold,Benjamin THOMAS,2024-08-08
+Men's Omnium,CTR,2,Silver,Iuri LEITAO,2024-08-08
+Men's Omnium,CTR,3,Bronze,Fabio van den BOSSCHE,2024-08-08
+Men's Sprint,CTR,1,Gold,Harrie LAVREYSEN,2024-08-09
+Men's Sprint,CTR,2,Silver,Matthew RICHARDSON,2024-08-09
+Men's Sprint,CTR,3,Bronze,Jack CARLIN,2024-08-09
+Women's Keirin,CTR,1,Gold,Ellesse ANDREWS,2024-08-08
+Women's Keirin,CTR,2,Silver,Hetty van de WOUW,2024-08-08
+Women's Keirin,CTR,3,Bronze,Emma FINUCANE,2024-08-08
+Women's Omnium,CTR,1,Gold,Jennifer VALENTE,2024-08-11
+Women's Omnium,CTR,2,Silver,Daria PIKULIK,2024-08-11
+Women's Omnium,CTR,3,Bronze,Ally WOLLASTON,2024-08-11
+Women's Sprint,CTR,1,Gold,Ellesse ANDREWS,2024-08-11
+Women's Sprint,CTR,2,Silver,Lea FRIEDRICH,2024-08-11
+Women's Sprint,CTR,3,Bronze,Emma FINUCANE,2024-08-11
+Men's 10m Platform,DIV,1,Gold,CAO Yuan,2024-08-10
+Men's 10m Platform,DIV,2,Silver,TAMAI Rikuto,2024-08-10
+Men's 10m Platform,DIV,3,Bronze,Noah WILLIAMS,2024-08-10
+Men's 3m Springboard,DIV,1,Gold,XIE Siyi,2024-08-08
+Men's 3m Springboard,DIV,2,Silver,WANG Zongyuan,2024-08-08
+Men's 3m Springboard,DIV,3,Bronze,Osmar OLVERA IBARRA,2024-08-08
+Women's 10m Platform,DIV,1,Gold,QUAN Hongchan,2024-08-06
+Women's 10m Platform,DIV,2,Silver,CHEN Yuxi,2024-08-06
+Women's 10m Platform,DIV,3,Bronze,KIM Mi Rae,2024-08-06
+Women's 3m Springboard,DIV,1,Gold,CHEN Yiwen,2024-08-09
+Women's 3m Springboard,DIV,2,Silver,Maddison KEENEY,2024-08-09
+Women's 3m Springboard,DIV,3,Bronze,CHANG Yani,2024-08-09
+Dressage Individual,EQU,1,Gold,Jessica von BREDOW-WERNDL,2024-08-04
+Dressage Individual,EQU,2,Silver,Isabell WERTH,2024-08-04
+Dressage Individual,EQU,3,Bronze,Charlotte FRY,2024-08-04
+Eventing Individual,EQU,1,Gold,Michael JUNG,2024-07-29
+Eventing Individual,EQU,2,Silver,Christopher BURTON,2024-07-29
+Eventing Individual,EQU,3,Bronze,Laura COLLETT,2024-07-29
+Jumping Individual,EQU,1,Gold,Christian KUKUK,2024-08-06
+Jumping Individual,EQU,2,Silver,Steve GUERDAT,2024-08-06
+Jumping Individual,EQU,3,Bronze,Maikel van der VLEUTEN,2024-08-06
+Men's Fencing Individual,FEN,1,Gold,KANO Koki,2024-07-28
+Men's Fencing Individual,FEN,2,Silver,Yannick BOREL,2024-07-28
+Men's Fencing Individual,FEN,3,Bronze,Mohamed ELSAYED,2024-07-28
+Men's Foil Individual,FEN,1,Gold,CHEUNG Ka Long,2024-07-29
+Men's Foil Individual,FEN,2,Silver,Filippo MACCHI,2024-07-29
+Men's Foil Individual,FEN,3,Bronze,Nick ITKIN,2024-07-29
+Men's Sabre Individual,FEN,1,Gold,OH Sanguk,2024-07-27
+Men's Sabre Individual,FEN,2,Silver,Fares FERJANI,2024-07-27
+Men's Sabre Individual,FEN,3,Bronze,Luigi SAMELE,2024-07-27
+Women's Fencing Individual,FEN,1,Gold,KONG Man Wai Vivian,2024-07-27
+Women's Fencing Individual,FEN,2,Silver,Auriane MALLO-BRETON,2024-07-27
+Women's Fencing Individual,FEN,3,Bronze,Eszter MUHARI,2024-07-27
+Women's Foil Individual,FEN,1,Gold,Lee KIEFER,2024-07-28
+Women's Foil Individual,FEN,2,Silver,Lauren SCRUGGS,2024-07-28
+Women's Foil Individual,FEN,3,Bronze,Eleanor HARVEY,2024-07-28
+Women's Sabre Individual,FEN,1,Gold,Manon APITHY-BRUNET,2024-07-29
+Women's Sabre Individual,FEN,2,Silver,Sara BALZER,2024-07-29
+Women's Sabre Individual,FEN,3,Bronze,Olga KHARLAN,2024-07-29
+Men's All-Around,GAR,1,Gold,OKA Shinnosuke,2024-07-31
+Men's All-Around,GAR,2,Silver,ZHANG Boheng,2024-07-31
+Men's All-Around,GAR,3,Bronze,XIAO Ruoteng,2024-07-31
+Men's Floor Exercise,GAR,1,Gold,Carlos Edriel YULO,2024-08-03
+Men's Floor Exercise,GAR,2,Silver,Artem DOLGOPYAT,2024-08-03
+Men's Floor Exercise,GAR,3,Bronze,Jake JARMAN,2024-08-03
+Men's Horizontal Bar,GAR,1,Gold,OKA Shinnosuke,2024-08-05
+Men's Horizontal Bar,GAR,2,Silver,Angel BARAJAS,2024-08-05
+Men's Horizontal Bar,GAR,3,Bronze,ZHANG Boheng,2024-08-05
+Men's Horizontal Bar,GAR,3,Bronze,TANG Chia-Hung,2024-08-05
+Men's Parallel Bars,GAR,1,Gold,ZOU Jingyuan,2024-08-05
+Men's Parallel Bars,GAR,2,Silver,Illia KOVTUN,2024-08-05
+Men's Parallel Bars,GAR,3,Bronze,OKA Shinnosuke,2024-08-05
+Men's Pommel Horse,GAR,1,Gold,Rhys MC CLENAGHAN,2024-08-03
+Men's Pommel Horse,GAR,2,Silver,Nariman KURBANOV,2024-08-03
+Men's Pommel Horse,GAR,3,Bronze,Stephen NEDOROSCIK,2024-08-03
+Men's Rings,GAR,1,Gold,LIU Yang,2024-08-04
+Men's Rings,GAR,2,Silver,ZOU Jingyuan,2024-08-04
+Men's Rings,GAR,3,Bronze,Eleftherios PETROUNIAS,2024-08-04
+Men's Vault,GAR,1,Gold,Carlos Edriel YULO,2024-08-04
+Men's Vault,GAR,2,Silver,Artur DAVTYAN,2024-08-04
+Men's Vault,GAR,3,Bronze,Harry HEPWORTH,2024-08-04
+Women's All-Around,GAR,1,Gold,Simone BILES,2024-08-01
+Women's All-Around,GAR,2,Silver,Rebeca ANDRADE,2024-08-01
+Women's All-Around,GAR,3,Bronze,Sunisa LEE,2024-08-01
+Women's Balance Beam,GAR,1,Gold,Alice D'AMATO,2024-08-05
+Women's Balance Beam,GAR,2,Silver,ZHOU Yaqin,2024-08-05
+Women's Balance Beam,GAR,3,Bronze,Manila ESPOSITO,2024-08-05
+Women's Floor Exercise,GAR,1,Gold,Rebeca ANDRADE,2024-08-05
+Women's Floor Exercise,GAR,2,Silver,Simone BILES,2024-08-05
+Women's Floor Exercise,GAR,3,Bronze,Ana BARBOSU,2024-08-05
+Women's Uneven Bars,GAR,1,Gold,Kaylia NEMOUR,2024-08-04
+Women's Uneven Bars,GAR,2,Silver,QIU Qiyuan,2024-08-04
+Women's Uneven Bars,GAR,3,Bronze,Sunisa LEE,2024-08-04
+Women's Vault,GAR,1,Gold,Simone BILES,2024-08-03
+Women's Vault,GAR,2,Silver,Rebeca ANDRADE,2024-08-03
+Women's Vault,GAR,3,Bronze,Jade CAREY,2024-08-03
+Men's Individual Stroke Play,GLF,1,Gold,Scottie SCHEFFLER,2024-08-04
+Men's Individual Stroke Play,GLF,2,Silver,Tommy FLEETWOOD,2024-08-04
+Men's Individual Stroke Play,GLF,3,Bronze,MATSUYAMA Hideki,2024-08-04
+Women's Individual Stroke Play,GLF,1,Gold,Lydia KO,2024-08-10
+Women's Individual Stroke Play,GLF,2,Silver,Esther HENSELEIT,2024-08-10
+Women's Individual Stroke Play,GLF,3,Bronze,LIN Xiyu Janet,2024-08-10
+Individual All-Around,GRY,1,Gold,VARFOLOMEEV Darja,2024-08-09
+Individual All-Around,GRY,2,Silver,KALEYN Boryana,2024-08-09
+Individual All-Around,GRY,3,Bronze,RAFFAELI Sofia,2024-08-09
+Men,GTR,1,Gold,Ivan LITVINOVICH,2024-08-02
+Men,GTR,2,Silver,WANG Zisai,2024-08-02
+Men,GTR,3,Bronze,YAN Langyu,2024-08-02
+Women,GTR,1,Gold,Bryony PAGE,2024-08-02
+Women,GTR,2,Silver,Viyaleta BARDZILOUSKAYA,2024-08-02
+Women,GTR,3,Bronze,Sophiane METHOT,2024-08-02
+Men +100 kg,JUD,1,Gold,Teddy RINER,2024-08-02
+Men +100 kg,JUD,2,Silver,KIM Minjong,2024-08-02
+Men +100 kg,JUD,3,Bronze,Temur RAKHIMOV,2024-08-02
+Men +100 kg,JUD,3,Bronze,Alisher YUSUPOV,2024-08-02
+Men -100 kg,JUD,1,Gold,Zelym KOTSOIEV,2024-08-01
+Men -100 kg,JUD,2,Silver,Ilia SULAMANIDZE,2024-08-01
+Men -100 kg,JUD,3,Bronze,Peter PALTCHIK,2024-08-01
+Men -100 kg,JUD,3,Bronze,Muzaffarbek TUROBOYEV,2024-08-01
+Men -60 kg,JUD,1,Gold,Yeldos SMETOV,2024-07-27
+Men -60 kg,JUD,2,Silver,Luka MKHEIDZE,2024-07-27
+Men -60 kg,JUD,3,Bronze,NAGAYAMA Ryuju,2024-07-27
+Men -60 kg,JUD,3,Bronze,Francisco GARRIGOS,2024-07-27
+Men -66 kg,JUD,1,Gold,ABE Hifumi,2024-07-28
+Men -66 kg,JUD,2,Silver,Willian LIMA,2024-07-28
+Men -66 kg,JUD,3,Bronze,Gusman KYRGYZBAYEV,2024-07-28
+Men -66 kg,JUD,3,Bronze,Denis VIERU,2024-07-28
+Men -73 kg,JUD,1,Gold,Hidayat HEYDAROV,2024-07-29
+Men -73 kg,JUD,2,Silver,Joan-Benjamin GABA,2024-07-29
+Men -73 kg,JUD,3,Bronze,Adil OSMANOV,2024-07-29
+Men -73 kg,JUD,3,Bronze,HASHIMOTO Soichi,2024-07-29
+Men -81 kg,JUD,1,Gold,NAGASE Takanori,2024-07-30
+Men -81 kg,JUD,2,Silver,Tato GRIGALASHVILI,2024-07-30
+Men -81 kg,JUD,3,Bronze,LEE Joonhwan,2024-07-30
+Men -81 kg,JUD,3,Bronze,Somon MAKHMADBEKOV,2024-07-30
+Men -90 kg,JUD,1,Gold,Lasha BEKAURI,2024-07-31
+Men -90 kg,JUD,2,Silver,MURAO Sanshiro,2024-07-31
+Men -90 kg,JUD,3,Bronze,Maxime-Gael NGAYAP HAMBOU,2024-07-31
+Men -90 kg,JUD,3,Bronze,Theodoros TSELIDIS,2024-07-31
+Women +78 kg,JUD,1,Gold,Beatriz SOUZA,2024-08-02
+Women +78 kg,JUD,2,Silver,Raz HERSHKO,2024-08-02
+Women +78 kg,JUD,3,Bronze,KIM Hayun,2024-08-02
+Women +78 kg,JUD,3,Bronze,Romane DICKO,2024-08-02
+Women -48 kg,JUD,1,Gold,TSUNODA Natsumi,2024-07-27
+Women -48 kg,JUD,2,Silver,Baasankhuu BAVUUDORJ,2024-07-27
+Women -48 kg,JUD,3,Bronze,Shirine BOUKLI,2024-07-27
+Women -48 kg,JUD,3,Bronze,Tara BABULFATH,2024-07-27
+Women -52 kg,JUD,1,Gold,Diyora KELDIYOROVA,2024-07-28
+Women -52 kg,JUD,2,Silver,Distria KRASNIQI,2024-07-28
+Women -52 kg,JUD,3,Bronze,Larissa PIMENTA,2024-07-28
+Women -52 kg,JUD,3,Bronze,Amandine BUCHARD,2024-07-28
+Women -57 kg,JUD,1,Gold,Christa DEGUCHI,2024-07-29
+Women -57 kg,JUD,2,Silver,HUH Mimi,2024-07-29
+Women -57 kg,JUD,3,Bronze,FUNAKUBO Haruka,2024-07-29
+Women -57 kg,JUD,3,Bronze,Sarah Leonie CYSIQUE,2024-07-29
+Women -63 kg,JUD,1,Gold,Andreja LESKI,2024-07-30
+Women -63 kg,JUD,2,Silver,Prisca AWITI ALCARAZ,2024-07-30
+Women -63 kg,JUD,3,Bronze,Clarisse AGBEGNENOU,2024-07-30
+Women -63 kg,JUD,3,Bronze,Laura FAZLIU,2024-07-30
+Women -70 kg,JUD,1,Gold,Barbara MATIC,2024-07-31
+Women -70 kg,JUD,2,Silver,Miriam BUTKEREIT,2024-07-31
+Women -70 kg,JUD,3,Bronze,Michaela POLLERES,2024-07-31
+Women -70 kg,JUD,3,Bronze,Gabriella WILLEMS,2024-07-31
+Women -78 kg,JUD,1,Gold,Alice BELLANDI,2024-08-01
+Women -78 kg,JUD,2,Silver,Inbar LANIR,2024-08-01
+Women -78 kg,JUD,3,Bronze,MA Zhenzhao,2024-08-01
+Women -78 kg,JUD,3,Bronze,Patricia SAMPAIO,2024-08-01
+Men's Cross-country,MTB,1,Gold,Thomas PIDCOCK,2024-07-29
+Men's Cross-country,MTB,2,Silver,Victor KORETZKY,2024-07-29
+Men's Cross-country,MTB,3,Bronze,Alan HATHERLY,2024-07-29
+Women's Cross-country,MTB,1,Gold,Pauline FERRAND PREVOT,2024-07-28
+Women's Cross-country,MTB,2,Silver,Haley BATTEN,2024-07-28
+Women's Cross-country,MTB,3,Bronze,Jenny RISSVEDS,2024-07-28
+Men's 10km,OWS,1,Gold,Kristof RASOVSZKY,2024-08-09
+Men's 10km,OWS,2,Silver,Oliver KLEMET,2024-08-09
+Men's 10km,OWS,3,Bronze,David BETLEHEM,2024-08-09
+Women's 10km,OWS,1,Gold,Sharon van ROUWENDAAL,2024-08-08
+Women's 10km,OWS,2,Silver,Moesha JOHNSON,2024-08-08
+Women's 10km,OWS,3,Bronze,Ginevra TADDEUCCI,2024-08-08
+Lightweight Men's Double Sculls,ROW,1,Gold,Ireland,2024-08-02
+Lightweight Men's Double Sculls,ROW,2,Silver,Italy,2024-08-02
+Lightweight Men's Double Sculls,ROW,3,Bronze,Greece,2024-08-02
+Lightweight Women's Double Sculls,ROW,1,Gold,Great Britain,2024-08-02
+Lightweight Women's Double Sculls,ROW,2,Silver,Romania,2024-08-02
+Lightweight Women's Double Sculls,ROW,3,Bronze,Greece,2024-08-02
+Men's Double Sculls,ROW,1,Gold,Romania,2024-08-01
+Men's Double Sculls,ROW,2,Silver,Netherlands,2024-08-01
+Men's Double Sculls,ROW,3,Bronze,Ireland,2024-08-01
+Men's Eight,ROW,1,Gold,Great Britain,2024-08-03
+Men's Eight,ROW,2,Silver,Netherlands,2024-08-03
+Men's Eight,ROW,3,Bronze,United States,2024-08-03
+Men's Four,ROW,1,Gold,United States,2024-08-01
+Men's Four,ROW,2,Silver,New Zealand,2024-08-01
+Men's Four,ROW,3,Bronze,Great Britain,2024-08-01
+Men's Pair,ROW,1,Gold,Croatia,2024-08-02
+Men's Pair,ROW,2,Silver,Great Britain,2024-08-02
+Men's Pair,ROW,3,Bronze,Switzerland,2024-08-02
+Men's Quadruple Sculls,ROW,1,Gold,Netherlands,2024-07-31
+Men's Quadruple Sculls,ROW,2,Silver,Italy,2024-07-31
+Men's Quadruple Sculls,ROW,3,Bronze,Poland,2024-07-31
+Men's Single Sculls,ROW,1,Gold,Oliver ZEIDLER,2024-08-03
+Men's Single Sculls,ROW,2,Silver,Yauheni ZALATY,2024-08-03
+Men's Single Sculls,ROW,3,Bronze,Simon van DORP,2024-08-03
+Women's Double Sculls,ROW,1,Gold,New Zealand,2024-08-01
+Women's Double Sculls,ROW,2,Silver,Romania,2024-08-01
+Women's Double Sculls,ROW,3,Bronze,Great Britain,2024-08-01
+Women's Eight,ROW,1,Gold,Romania,2024-08-03
+Women's Eight,ROW,2,Silver,Canada,2024-08-03
+Women's Eight,ROW,3,Bronze,Great Britain,2024-08-03
+Women's Four,ROW,1,Gold,Netherlands,2024-08-01
+Women's Four,ROW,2,Silver,Great Britain,2024-08-01
+Women's Four,ROW,3,Bronze,New Zealand,2024-08-01
+Women's Pair,ROW,1,Gold,Netherlands,2024-08-02
+Women's Pair,ROW,2,Silver,Romania,2024-08-02
+Women's Pair,ROW,3,Bronze,Australia,2024-08-02
+Women's Quadruple Sculls,ROW,1,Gold,Great Britain,2024-07-31
+Women's Quadruple Sculls,ROW,2,Silver,Netherlands,2024-07-31
+Women's Quadruple Sculls,ROW,3,Bronze,Germany,2024-07-31
+Women's Single Sculls,ROW,1,Gold,Karolien FLORIJN,2024-08-03
+Women's Single Sculls,ROW,2,Silver,Emma TWIGG,2024-08-03
+Women's Single Sculls,ROW,3,Bronze,Viktorija SENKUTE,2024-08-03
+Women,RU10,1,Gold,New Zealand,2024-07-30
+Women,RU11,2,Silver,Canada,2024-07-30
+Women,RU12,3,Bronze,United States,2024-07-30
+Men,RU7,1,Gold,France,2024-07-27
+Men,RU8,2,Silver,Fiji,2024-07-27
+Men,RU9,3,Bronze,South Africa,2024-07-27
+Men's Dinghy,SAL,1,Gold,Matt WEARN,2024-08-07
+Men's Dinghy,SAL,2,Silver,Pavlos KONTIDES,2024-08-07
+Men's Dinghy,SAL,3,Bronze,Stefano PESCHIERA,2024-08-07
+Men's Kite,SAL,1,Gold,Valentin BONTUS,2024-08-09
+Men's Kite,SAL,2,Silver,Toni VODISEK,2024-08-09
+Men's Kite,SAL,3,Bronze,Maximilian MAEDER,2024-08-09
+Men's Skiff,SAL,1,Gold,BOTIN/TRITTEL,2024-08-02
+Men's Skiff,SAL,2,Silver,McHARDIE/McKENZIE,2024-08-02
+Men's Skiff,SAL,3,Bronze,BARROWS/HENKEN,2024-08-02
+Men's Windsurfing,SAL,1,Gold,Tom REUVENY,2024-08-03
+Men's Windsurfing,SAL,2,Silver,Grae MORRIS,2024-08-03
+Men's Windsurfing,SAL,3,Bronze,Luuc van OPZEELAND,2024-08-03
+Women's Dinghy,SAL,1,Gold,Marit BOUWMEESTER,2024-08-07
+Women's Dinghy,SAL,2,Silver,Anne-Marie RINDOM,2024-08-07
+Women's Dinghy,SAL,3,Bronze,Line Flem HOEST,2024-08-07
+Women's Kite,SAL,1,Gold,Eleanor ALDRIDGE,2024-08-08
+Women's Kite,SAL,2,Silver,Lauriane NOLOT,2024-08-08
+Women's Kite,SAL,3,Bronze,Annelous LAMMERTS,2024-08-08
+Women's Skiff,SAL,1,Gold,AANHOLT/DUETZ,2024-08-02
+Women's Skiff,SAL,2,Silver,BOBECK/NETZLER,2024-08-02
+Women's Skiff,SAL,3,Bronze,STEYAERT/PICON,2024-08-02
+Women's Windsurfing,SAL,1,Gold,Marta MAGGETTI,2024-08-03
+Women's Windsurfing,SAL,2,Silver,Sharon KANTOR,2024-08-03
+Women's Windsurfing,SAL,3,Bronze,Emma WILSON,2024-08-03
+10m Air Pistol Men,SHO,1,Gold,XIE Yu,2024-07-28
+10m Air Pistol Men,SHO,2,Silver,Federico Nilo MALDINI,2024-07-28
+10m Air Pistol Men,SHO,3,Bronze,Paolo MONNA,2024-07-28
+10m Air Pistol Mixed Team,SHO,1,Gold,Serbia,2024-07-30
+10m Air Pistol Mixed Team,SHO,2,Silver,T?¬rkiye 2,2024-07-30
+10m Air Pistol Mixed Team,SHO,3,Bronze,India 1,2024-07-30
+10m Air Pistol Women,SHO,1,Gold,OH Ye Jin,2024-07-28
+10m Air Pistol Women,SHO,2,Silver,KIM Yeji,2024-07-28
+10m Air Pistol Women,SHO,3,Bronze,Manu BHAKER,2024-07-28
+10m Air Rifle Men,SHO,1,Gold,SHENG Lihao,2024-07-29
+10m Air Rifle Men,SHO,2,Silver,Victor LINDGREN,2024-07-29
+10m Air Rifle Men,SHO,3,Bronze,Miran MARICIC,2024-07-29
+10m Air Rifle Mixed Team,SHO,1,Gold,China 1,2024-07-27
+10m Air Rifle Mixed Team,SHO,2,Silver,Korea 1,2024-07-27
+10m Air Rifle Mixed Team,SHO,3,Bronze,Kazakhstan 1,2024-07-27
+10m Air Rifle Women,SHO,1,Gold,BAN Hyojin,2024-07-29
+10m Air Rifle Women,SHO,2,Silver,HUANG Yuting,2024-07-29
+10m Air Rifle Women,SHO,3,Bronze,Audrey GOGNIAT,2024-07-29
+25m Pistol Women,SHO,1,Gold,YANG Jiin,2024-08-03
+25m Pistol Women,SHO,2,Silver,Camille JEDRZEJEWSKI,2024-08-03
+25m Pistol Women,SHO,3,Bronze,Veronika MAJOR,2024-08-03
+25m Rapid Fire Pistol Men,SHO,1,Gold,LI Yuehong,2024-08-05
+25m Rapid Fire Pistol Men,SHO,2,Silver,CHO Yeongjae,2024-08-05
+25m Rapid Fire Pistol Men,SHO,3,Bronze,WANG Xinjie,2024-08-05
+50m Rifle 3 Positions Men,SHO,1,Gold,LIU Yukun,2024-08-01
+50m Rifle 3 Positions Men,SHO,2,Silver,Serhiy KULISH,2024-08-01
+50m Rifle 3 Positions Men,SHO,3,Bronze,Swapnil KUSALE,2024-08-01
+50m Rifle 3 Positions Women,SHO,1,Gold,Chiara LEONE,2024-08-02
+50m Rifle 3 Positions Women,SHO,2,Silver,Sagen MADDALENA,2024-08-02
+50m Rifle 3 Positions Women,SHO,3,Bronze,ZHANG Qiongyue,2024-08-02
+Skeet Men,SHO,1,Gold,Vincent HANCOCK,2024-08-03
+Skeet Men,SHO,2,Silver,Conner Lynn PRINCE,2024-08-03
+Skeet Men,SHO,3,Bronze,LEE Meng Yuan,2024-08-03
+Skeet Mixed Team,SHO,1,Gold,Italy 1,2024-08-05
+Skeet Mixed Team,SHO,2,Silver,United States 1,2024-08-05
+Skeet Mixed Team,SHO,3,Bronze,China,2024-08-05
+Skeet Women,SHO,1,Gold,Francisca CROVETTO CHADID,2024-08-04
+Skeet Women,SHO,2,Silver,Amber Jo RUTTER,2024-08-04
+Skeet Women,SHO,3,Bronze,Austen Jewell SMITH,2024-08-04
+Trap Men,SHO,1,Gold,Nathan HALES,2024-07-30
+Trap Men,SHO,2,Silver,QI Ying,2024-07-30
+Trap Men,SHO,3,Bronze,Jean Pierre BROL CARDENAS,2024-07-30
+Trap Women,SHO,1,Gold,Adriana RUANO OLIVA,2024-07-31
+Trap Women,SHO,2,Silver,Silvana Maria STANCO,2024-07-31
+Trap Women,SHO,3,Bronze,Penny SMITH,2024-07-31
+Men's Park,SKB,1,Gold,Keegan PALMER,2024-08-07
+Men's Park,SKB,2,Silver,Tom SCHAAR,2024-08-07
+Men's Park,SKB,3,Bronze,Augusto AKIO,2024-08-07
+Men's Street,SKB,1,Gold,HORIGOME Yuto,2024-07-29
+Men's Street,SKB,2,Silver,Jagger EATON,2024-07-29
+Men's Street,SKB,3,Bronze,Nyjah HUSTON,2024-07-29
+Women's Park,SKB,1,Gold,Arisa TREW,2024-08-06
+Women's Park,SKB,2,Silver,HIRAKI Cocona,2024-08-06
+Women's Park,SKB,3,Bronze,Sky BROWN,2024-08-06
+Women's Street,SKB,1,Gold,YOSHIZAWA Coco,2024-07-28
+Women's Street,SKB,2,Silver,AKAMA Liz,2024-07-28
+Women's Street,SKB,3,Bronze,Rayssa LEAL,2024-07-28
+Men,SRF,1,Gold,Kauli VAAST,2024-08-05
+Men,SRF,2,Silver,Jack ROBINSON,2024-08-05
+Men,SRF,3,Bronze,Gabriel MEDINA,2024-08-05
+Women,SRF,1,Gold,Caroline MARKS,2024-08-05
+Women,SRF,2,Silver,Tatiana WESTON-WEBB,2024-08-05
+Women,SRF,3,Bronze,Johanne DEFAY,2024-08-05
+Duet,SWA,1,Gold,China,2024-08-10
+Duet,SWA,2,Silver,Great Britain,2024-08-10
+Duet,SWA,3,Bronze,Netherlands,2024-08-10
+Team,SWA,1,Gold,China,2024-08-07
+Team,SWA,2,Silver,United States,2024-08-07
+Team,SWA,3,Bronze,Spain,2024-08-07
+Men's 100m Backstroke,SWM,1,Gold,Thomas CECCON,2024-07-29
+Men's 100m Backstroke,SWM,2,Silver,XU Jiayu,2024-07-29
+Men's 100m Backstroke,SWM,3,Bronze,Ryan MURPHY,2024-07-29
+Men's 100m Breaststroke,SWM,1,Gold,Nicolo MARTINENGHI,2024-07-28
+Men's 100m Breaststroke,SWM,2,Silver,Adam PEATY,2024-07-28
+Men's 100m Breaststroke,SWM,2,Silver,Nic FINK,2024-07-28
+Men's 100m Butterfly,SWM,1,Gold,Kristof MILAK,2024-08-03
+Men's 100m Butterfly,SWM,2,Silver,Josh LIENDO,2024-08-03
+Men's 100m Butterfly,SWM,3,Bronze,Ilya KHARUN,2024-08-03
+Men's 100m Freestyle,SWM,1,Gold,PAN Zhanle,2024-07-31
+Men's 100m Freestyle,SWM,2,Silver,Kyle CHALMERS,2024-07-31
+Men's 100m Freestyle,SWM,3,Bronze,David POPOVICI,2024-07-31
+Men's 1500m Freestyle,SWM,1,Gold,Bobby FINKE,2024-08-04
+Men's 1500m Freestyle,SWM,2,Silver,Gregorio PALTRINIERI,2024-08-04
+Men's 1500m Freestyle,SWM,3,Bronze,Daniel WIFFEN,2024-08-04
+Men's 200m Backstroke,SWM,1,Gold,Hubert KOS,2024-08-01
+Men's 200m Backstroke,SWM,2,Silver,Apostolos CHRISTOU,2024-08-01
+Men's 200m Backstroke,SWM,3,Bronze,Roman MITYUKOV,2024-08-01
+Men's 200m Breaststroke,SWM,1,Gold,Leon MARCHAND,2024-07-31
+Men's 200m Breaststroke,SWM,2,Silver,Zac STUBBLETY-COOK,2024-07-31
+Men's 200m Breaststroke,SWM,3,Bronze,Caspar CORBEAU,2024-07-31
+Men's 200m Butterfly,SWM,1,Gold,Leon MARCHAND,2024-07-31
+Men's 200m Butterfly,SWM,2,Silver,Kristof MILAK,2024-07-31
+Men's 200m Butterfly,SWM,3,Bronze,Ilya KHARUN,2024-07-31
+Men's 200m Freestyle,SWM,1,Gold,David POPOVICI,2024-07-29
+Men's 200m Freestyle,SWM,2,Silver,Matthew RICHARDS,2024-07-29
+Men's 200m Freestyle,SWM,3,Bronze,Luke HOBSON,2024-07-29
+Men's 200m Individual Medley,SWM,1,Gold,Leon MARCHAND,2024-08-02
+Men's 200m Individual Medley,SWM,2,Silver,Duncan SCOTT,2024-08-02
+Men's 200m Individual Medley,SWM,3,Bronze,WANG Shun,2024-08-02
+Men's 4 x 100m Freestyle Relay,SWM,1,Gold,United States,2024-07-27
+Men's 4 x 100m Freestyle Relay,SWM,2,Silver,Australia,2024-07-27
+Men's 4 x 100m Freestyle Relay,SWM,3,Bronze,Italy,2024-07-27
+Men's 4 x 100m Medley Relay,SWM,1,Gold,China,2024-08-04
+Men's 4 x 100m Medley Relay,SWM,2,Silver,United States,2024-08-04
+Men's 4 x 100m Medley Relay,SWM,3,Bronze,France,2024-08-04
+Men's 4 x 200m Freestyle Relay,SWM,1,Gold,Great Britain,2024-07-30
+Men's 4 x 200m Freestyle Relay,SWM,2,Silver,United States,2024-07-30
+Men's 4 x 200m Freestyle Relay,SWM,3,Bronze,Australia,2024-07-30
+Men's 400m Freestyle,SWM,1,Gold,Lukas MAERTENS,2024-07-27
+Men's 400m Freestyle,SWM,2,Silver,Elijah WINNINGTON,2024-07-27
+Men's 400m Freestyle,SWM,3,Bronze,KIM Woomin,2024-07-27
+Men's 400m Individual Medley,SWM,1,Gold,Leon MARCHAND,2024-07-28
+Men's 400m Individual Medley,SWM,2,Silver,MATSUSHITA Tomoyuki,2024-07-28
+Men's 400m Individual Medley,SWM,3,Bronze,Carson FOSTER,2024-07-28
+Men's 50m Freestyle,SWM,1,Gold,Cameron McEVOY,2024-08-02
+Men's 50m Freestyle,SWM,2,Silver,Benjamin PROUD,2024-08-02
+Men's 50m Freestyle,SWM,3,Bronze,Florent MANAUDOU,2024-08-02
+Men's 800m Freestyle,SWM,1,Gold,Daniel WIFFEN,2024-07-30
+Men's 800m Freestyle,SWM,2,Silver,Bobby FINKE,2024-07-30
+Men's 800m Freestyle,SWM,3,Bronze,Gregorio PALTRINIERI,2024-07-30
+Mixed 4 x 100m Medley Relay,SWM,1,Gold,United States,2024-08-03
+Mixed 4 x 100m Medley Relay,SWM,2,Silver,China,2024-08-03
+Mixed 4 x 100m Medley Relay,SWM,3,Bronze,Australia,2024-08-03
+Women's 100m Backstroke,SWM,1,Gold,Kaylee McKEOWN,2024-07-30
+Women's 100m Backstroke,SWM,2,Silver,Regan SMITH,2024-07-30
+Women's 100m Backstroke,SWM,3,Bronze,Katharine BERKOFF,2024-07-30
+Women's 100m Breaststroke,SWM,1,Gold,Tatjana SMITH,2024-07-29
+Women's 100m Breaststroke,SWM,2,Silver,TANG Qianting,2024-07-29
+Women's 100m Breaststroke,SWM,3,Bronze,Mona Mc SHARRY,2024-07-29
+Women's 100m Butterfly,SWM,1,Gold,Torri HUSKE,2024-07-28
+Women's 100m Butterfly,SWM,2,Silver,Gretchen WALSH,2024-07-28
+Women's 100m Butterfly,SWM,3,Bronze,ZHANG Yufei,2024-07-28
+Women's 100m Freestyle,SWM,1,Gold,Sarah SJOESTROEM,2024-07-31
+Women's 100m Freestyle,SWM,2,Silver,Torri HUSKE,2024-07-31
+Women's 100m Freestyle,SWM,3,Bronze,HAUGHEY Siobhan Bernadette,2024-07-31
+Women's 1500m Freestyle,SWM,1,Gold,Katie LEDECKY,2024-07-31
+Women's 1500m Freestyle,SWM,2,Silver,Anastasiia KIRPICHNIKOVA,2024-07-31
+Women's 1500m Freestyle,SWM,3,Bronze,Isabel GOSE,2024-07-31
+Women's 200m Backstroke,SWM,1,Gold,Kaylee McKEOWN,2024-08-02
+Women's 200m Backstroke,SWM,2,Silver,Regan SMITH,2024-08-02
+Women's 200m Backstroke,SWM,3,Bronze,Kylie MASSE,2024-08-02
+Women's 200m Breaststroke,SWM,1,Gold,Kate DOUGLASS,2024-08-01
+Women's 200m Breaststroke,SWM,2,Silver,Tatjana SMITH,2024-08-01
+Women's 200m Breaststroke,SWM,3,Bronze,Tes SCHOUTEN,2024-08-01
+Women's 200m Butterfly,SWM,1,Gold,Summer McINTOSH,2024-08-01
+Women's 200m Butterfly,SWM,2,Silver,Regan SMITH,2024-08-01
+Women's 200m Butterfly,SWM,3,Bronze,ZHANG Yufei,2024-08-01
+Women's 200m Freestyle,SWM,1,Gold,Mollie O'CALLAGHAN,2024-07-29
+Women's 200m Freestyle,SWM,2,Silver,Ariarne TITMUS,2024-07-29
+Women's 200m Freestyle,SWM,3,Bronze,HAUGHEY Siobhan Bernadette,2024-07-29
+Women's 200m Individual Medley,SWM,1,Gold,Summer McINTOSH,2024-08-03
+Women's 200m Individual Medley,SWM,2,Silver,Kate DOUGLASS,2024-08-03
+Women's 200m Individual Medley,SWM,3,Bronze,Kaylee McKEOWN,2024-08-03
+Women's 4 x 100m Freestyle Relay,SWM,1,Gold,Australia,2024-07-27
+Women's 4 x 100m Freestyle Relay,SWM,2,Silver,United States,2024-07-27
+Women's 4 x 100m Freestyle Relay,SWM,3,Bronze,China,2024-07-27
+Women's 4 x 100m Medley Relay,SWM,1,Gold,United States,2024-08-04
+Women's 4 x 100m Medley Relay,SWM,2,Silver,Australia,2024-08-04
+Women's 4 x 100m Medley Relay,SWM,3,Bronze,China,2024-08-04
+Women's 4 x 200m Freestyle Relay,SWM,1,Gold,Australia,2024-08-01
+Women's 4 x 200m Freestyle Relay,SWM,2,Silver,United States,2024-08-01
+Women's 4 x 200m Freestyle Relay,SWM,3,Bronze,China,2024-08-01
+Women's 400m Freestyle,SWM,1,Gold,Ariarne TITMUS,2024-07-27
+Women's 400m Freestyle,SWM,2,Silver,Summer McINTOSH,2024-07-27
+Women's 400m Freestyle,SWM,3,Bronze,Katie LEDECKY,2024-07-27
+Women's 400m Individual Medley,SWM,1,Gold,Summer McINTOSH,2024-07-29
+Women's 400m Individual Medley,SWM,2,Silver,Katie GRIMES,2024-07-29
+Women's 400m Individual Medley,SWM,3,Bronze,Emma WEYANT,2024-07-29
+Women's 50m Freestyle,SWM,1,Gold,Sarah SJOESTROEM,2024-08-04
+Women's 50m Freestyle,SWM,2,Silver,Meg HARRIS,2024-08-04
+Women's 50m Freestyle,SWM,3,Bronze,ZHANG Yufei,2024-08-04
+Women's 800m Freestyle,SWM,1,Gold,Katie LEDECKY,2024-08-03
+Women's 800m Freestyle,SWM,2,Silver,Ariarne TITMUS,2024-08-03
+Women's 800m Freestyle,SWM,3,Bronze,Paige MADDEN,2024-08-03
+Men's Doubles,TEN,1,Gold,EBDEN/PEERS,2024-08-03
+Men's Doubles,TEN,2,Silver,KRAJICEK/RAM,2024-08-03
+Men's Doubles,TEN,3,Bronze,FRITZ/PAUL,2024-08-03
+Men's Singles,TEN,3,Bronze,Lorenzo MUSETTI,2024-08-03
+Men's Singles,TEN,1,Gold,Novak DJOKOVIC,2024-08-04
+Men's Singles,TEN,2,Silver,Carlos ALCARAZ,2024-08-04
+Mixed Doubles,TEN,1,Gold,SINIAKOVA/MACHAC,2024-08-02
+Mixed Doubles,TEN,2,Silver,WANG/ZHANG,2024-08-02
+Mixed Doubles,TEN,3,Bronze,DABROWSKI/AUGER-ALIAS,2024-08-02
+Women's Doubles,TEN,1,Gold,ERRANI/PAOLINI,2024-08-04
+Women's Doubles,TEN,2,Silver,ANDREEVA/SHNAIDER,2024-08-04
+Women's Doubles,TEN,3,Bronze,BUCSA/SORRIBES TORMO,2024-08-04
+Women's Singles,TEN,3,Bronze,Iga SWIATEK,2024-08-02
+Women's Singles,TEN,1,Gold,ZHENG Qinwen,2024-08-03
+Women's Singles,TEN,2,Silver,Donna VEKIC,2024-08-03
+Men +80kg,TKW,1,Gold,Arian SALIMI,2024-08-10
+Men +80kg,TKW,2,Silver,Caden CUNNINGHAM,2024-08-10
+Men +80kg,TKW,3,Bronze,Rafael ALBA,2024-08-10
+Men +80kg,TKW,3,Bronze,Cheick Sallah CISSE,2024-08-10
+Men -58kg,TKW,1,Gold,PARK Taejoon,2024-08-07
+Men -58kg,TKW,2,Silver,Gashim MAGOMEDOV,2024-08-07
+Men -58kg,TKW,3,Bronze,Cyrian RAVET,2024-08-07
+Men -58kg,TKW,3,Bronze,Mohamed Khalil JENDOUBI,2024-08-07
+Men -68kg,TKW,1,Gold,Ulugbek RASHITOV,2024-08-08
+Men -68kg,TKW,2,Silver,Zaid KAREEM,2024-08-08
+Men -68kg,TKW,3,Bronze,LIANG Yushuai,2024-08-08
+Men -68kg,TKW,3,Bronze,Edival PONTES,2024-08-08
+Men -80kg,TKW,1,Gold,Firas KATOUSSI,2024-08-09
+Men -80kg,TKW,2,Silver,Mehran BARKHORDARI,2024-08-09
+Men -80kg,TKW,3,Bronze,Simone ALESSIO,2024-08-09
+Men -80kg,TKW,3,Bronze,Edi HRNIC,2024-08-09
+Women +67kg,TKW,1,Gold,Althea LAURIN,2024-08-10
+Women +67kg,TKW,2,Silver,Svetlana OSIPOVA,2024-08-10
+Women +67kg,TKW,3,Bronze,LEE Dabin,2024-08-10
+Women +67kg,TKW,3,Bronze,Nafia KUS AYDIN,2024-08-10
+Women -49kg,TKW,1,Gold,Panipak WONGPATTANAKIT,2024-08-07
+Women -49kg,TKW,2,Silver,GUO Qing,2024-08-07
+Women -49kg,TKW,3,Bronze,Mobina NEMATZADEH,2024-08-07
+Women -49kg,TKW,3,Bronze,Lena STOJKOVIC,2024-08-07
+Women -57kg,TKW,1,Gold,KIM Yujin,2024-08-08
+Women -57kg,TKW,2,Silver,Nahid KIYANICHANDEH,2024-08-08
+Women -57kg,TKW,3,Bronze,Skylar PARK,2024-08-08
+Women -57kg,TKW,3,Bronze,Alizadeh KIMIA,2024-08-08
+Women -67kg,TKW,1,Gold,Viviana MARTON,2024-08-09
+Women -67kg,TKW,2,Silver,Aleksandra PERISIC,2024-08-09
+Women -67kg,TKW,3,Bronze,Kristina TEACHOUT,2024-08-09
+Women -67kg,TKW,3,Bronze,Sarah CHAARI,2024-08-09
+Men's Individual,TRI,1,Gold,Alex YEE,2024-07-31
+Men's Individual,TRI,2,Silver,Hayden WILDE,2024-07-31
+Men's Individual,TRI,3,Bronze,Leo BERGERE,2024-07-31
+Mixed Relay,TRI,1,Gold,Germany,2024-08-05
+Mixed Relay,TRI,2,Silver,United States,2024-08-05
+Mixed Relay,TRI,3,Bronze,Great Britain,2024-08-05
+Women's Individual,TRI,1,Gold,Cassandre BEAUGRAND,2024-07-31
+Women's Individual,TRI,2,Silver,Julie DERRON,2024-07-31
+Women's Individual,TRI,3,Bronze,Beth POTTER,2024-07-31
+Men's Singles,TTE,1,Gold,FAN Zhendong,2024-08-04
+Men's Singles,TTE,2,Silver,Truls MOREGARD,2024-08-04
+Men's Singles,TTE,3,Bronze,Felix LEBRUN,2024-08-04
+Men's Team,TTE,1,Gold,China,2024-08-09
+Men's Team,TTE,2,Silver,Sweden,2024-08-09
+Men's Team,TTE,3,Bronze,France,2024-08-09
+Mixed Doubles,TTE,1,Gold,WANG/SUN,2024-07-30
+Mixed Doubles,TTE,2,Silver,RI/KIM,2024-07-30
+Mixed Doubles,TTE,3,Bronze,LIM/SHIN,2024-07-30
+Women's Singles,TTE,1,Gold,CHEN Meng,2024-08-03
+Women's Singles,TTE,2,Silver,SUN Yingsha,2024-08-03
+Women's Singles,TTE,3,Bronze,Hina HAYATA,2024-08-03
+Women's Team,TTE,1,Gold,China,2024-08-10
+Women's Team,TTE,2,Silver,Japan,2024-08-10
+Women's Team,TTE,3,Bronze,Korea,2024-08-10
+Men,VBV,1,Gold,AHMAN/HELLVIG,2024-08-10
+Men,VBV,2,Silver,EHLERS/WICKLER,2024-08-10
+Men,VBV,3,Bronze,MOL/SORUM,2024-08-10
+Women,VBV,1,Gold,ANA PATRICIA/DUDA,2024-08-09
+Women,VBV,2,Silver,MELISSA/BRANDIE,2024-08-09
+Women,VBV,3,Bronze,HUBERLI/BRUNNER,2024-08-09
+Men,VVO,3,Bronze,United States,2024-08-09
+Men,VVO,1,Gold,France,2024-08-10
+Men,VVO,2,Silver,Poland,2024-08-10
+Women,VVO,3,Bronze,Brazil,2024-08-10
+Women,VVO,1,Gold,Italy,2024-08-11
+Women,VVO,2,Silver,United States,2024-08-11
+Men,WLF,1,Gold,Serbia,2024-08-11
+Men,WLF,2,Silver,Croatia,2024-08-11
+Men,WLF,3,Bronze,United States,2024-08-11
+Men's +102kg,WLF,1,Gold,Lasha TALAKHADZE,2024-08-10
+Men's +102kg,WLF,2,Silver,Varazdat LALAYAN,2024-08-10
+Men's +102kg,WLF,3,Bronze,Gor MINASYAN,2024-08-10
+Men's 102kg,WLF,1,Gold,LIU Huanhua,2024-08-10
+Men's 102kg,WLF,2,Silver,Akbar DJURAEV,2024-08-10
+Men's 102kg,WLF,3,Bronze,Yauheni TSIKHANTSOU,2024-08-10
+Men's 61kg,WLF,1,Gold,LI Fabin,2024-08-07
+Men's 61kg,WLF,2,Silver,Theerapong SILACHAI,2024-08-07
+Men's 61kg,WLF,3,Bronze,Hampton MORRIS,2024-08-07
+Men's 73kg,WLF,1,Gold,Rizki JUNIANSYAH,2024-08-08
+Men's 73kg,WLF,2,Silver,Weeraphon WICHUMA,2024-08-08
+Men's 73kg,WLF,3,Bronze,Bozhidar Dimitrov ANDREEV,2024-08-08
+Men's 89kg,WLF,1,Gold,Karlos May NASAR,2024-08-09
+Men's 89kg,WLF,2,Silver,Yeison LOPEZ,2024-08-09
+Men's 89kg,WLF,3,Bronze,Antonino PIZZOLATO,2024-08-09
+Women,WLF,1,Gold,Spain,2024-08-10
+Women,WLF,2,Silver,Australia,2024-08-10
+Women,WLF,3,Bronze,Netherlands,2024-08-10
+Women's +81kg,WLF,1,Gold,LI Wenwen,2024-08-11
+Women's +81kg,WLF,2,Silver,PARK Hyejeong,2024-08-11
+Women's +81kg,WLF,3,Bronze,Emily CAMPBELL,2024-08-11
+Women's 49kg,WLF,1,Gold,HOU Zhihui,2024-08-07
+Women's 49kg,WLF,2,Silver,Mihaela Valentina CAMBEI,2024-08-07
+Women's 49kg,WLF,3,Bronze,Surodchana KHAMBAO,2024-08-07
+Women's 59kg,WLF,1,Gold,LUO Shifang,2024-08-08
+Women's 59kg,WLF,2,Silver,Maude CHARRON,2024-08-08
+Women's 59kg,WLF,3,Bronze,KUO Hsing-Chun,2024-08-08
+Women's 71kg,WLF,1,Gold,Olivia REEVES,2024-08-09
+Women's 71kg,WLF,2,Silver,Mari Leivis SANCHEZ,2024-08-09
+Women's 71kg,WLF,3,Bronze,Angie Paola PALACIOS DAJOMES,2024-08-09
+Women's 81kg,WLF,1,Gold,Solfrid Eila Amena KOANDA,2024-08-10
+Women's 81kg,WLF,2,Silver,Sara AHMED,2024-08-10
+Women's 81kg,WLF,3,Bronze,Neisi Patricia DAJOMES BARRERA,2024-08-10
+Men's Freestyle 125kg,WRE,1,Gold,Geno PETRIASHVILI,2024-08-10
+Men's Freestyle 125kg,WRE,2,Silver,Amir Hossein ZARE,2024-08-10
+Men's Freestyle 125kg,WRE,3,Bronze,Taha AKGUL,2024-08-10
+Men's Freestyle 125kg,WRE,3,Bronze,Giorgi MESHVILDISHVILI,2024-08-10
+Men's Freestyle 57kg,WRE,1,Gold,HIGUCHI Rei,2024-08-09
+Men's Freestyle 57kg,WRE,2,Silver,Spencer Richard LEE,2024-08-09
+Men's Freestyle 57kg,WRE,3,Bronze,Aman AMAN,2024-08-09
+Men's Freestyle 57kg,WRE,3,Bronze,Gulomjon ABDULLAEV,2024-08-09
+Men's Freestyle 65kg,WRE,1,Gold,KIYOOKA Kotaro,2024-08-11
+Men's Freestyle 65kg,WRE,2,Silver,Rahman AMOUZADKHALILI,2024-08-11
+Men's Freestyle 65kg,WRE,3,Bronze,Sebastian C RIVERA,2024-08-11
+Men's Freestyle 65kg,WRE,3,Bronze,Islam DUDAEV,2024-08-11
+Men's Freestyle 74kg,WRE,1,Gold,Razambek Salambekovitch JAMALOV,2024-08-10
+Men's Freestyle 74kg,WRE,2,Silver,TAKATANI Daichi,2024-08-10
+Men's Freestyle 74kg,WRE,3,Bronze,Kyle Douglas DAKE,2024-08-10
+Men's Freestyle 74kg,WRE,3,Bronze,Chermen VALIEV,2024-08-10
+Men's Freestyle 86kg,WRE,1,Gold,Magomed Eldarovitch RAMAZANOV,2024-08-09
+Men's Freestyle 86kg,WRE,2,Silver,Hassan YAZDANICHARATI,2024-08-09
+Men's Freestyle 86kg,WRE,3,Bronze,Aaron Marquel BROOKS,2024-08-09
+Men's Freestyle 86kg,WRE,3,Bronze,Dauren KURUGLIEV,2024-08-09
+Men's Freestyle 97kg,WRE,1,Gold,Akhmed TAZHUDINOV,2024-08-11
+Men's Freestyle 97kg,WRE,2,Silver,Givi MATCHARASHVILI,2024-08-11
+Men's Freestyle 97kg,WRE,3,Bronze,Magomedkhan MAGOMEDOV,2024-08-11
+Men's Freestyle 97kg,WRE,3,Bronze,Amirali AZARPIRA,2024-08-11
+Men's Greco-Roman 130kg,WRE,1,Gold,Mijain LOPEZ NUNEZ,2024-08-06
+Men's Greco-Roman 130kg,WRE,2,Silver,Yasmani ACOSTA FERNANDEZ,2024-08-06
+Men's Greco-Roman 130kg,WRE,3,Bronze,Amin MIRZAZADEH,2024-08-06
+Men's Greco-Roman 130kg,WRE,3,Bronze,MENG Lingzhe,2024-08-06
+Men's Greco-Roman 60kg,WRE,1,Gold,FUMITA Kenichiro,2024-08-06
+Men's Greco-Roman 60kg,WRE,2,Silver,CAO Liguo,2024-08-06
+Men's Greco-Roman 60kg,WRE,3,Bronze,Zholaman SHARSHENBEKOV,2024-08-06
+Men's Greco-Roman 60kg,WRE,3,Bronze,RI Se Ung,2024-08-06
+Men's Greco-Roman 67kg,WRE,1,Gold,Saeid ESMAEILI LEIVESI,2024-08-08
+Men's Greco-Roman 67kg,WRE,2,Silver,Parviz NASIBOV,2024-08-08
+Men's Greco-Roman 67kg,WRE,3,Bronze,Hasrat JAFAROV,2024-08-08
+Men's Greco-Roman 67kg,WRE,3,Bronze,Luis Alberto ORTA SANCHEZ,2024-08-08
+Men's Greco-Roman 77kg,WRE,1,Gold,KUSAKA Nao,2024-08-07
+Men's Greco-Roman 77kg,WRE,2,Silver,Demeu ZHADRAYEV,2024-08-07
+Men's Greco-Roman 77kg,WRE,3,Bronze,Malkhas AMOYAN,2024-08-07
+Men's Greco-Roman 77kg,WRE,3,Bronze,Akzhol MAKHMUDOV,2024-08-07
+Men's Greco-Roman 87kg,WRE,1,Gold,Semen Sergeevich NOVIKOV,2024-08-08
+Men's Greco-Roman 87kg,WRE,2,Silver,Alireza MOHMADIPIANI,2024-08-08
+Men's Greco-Roman 87kg,WRE,3,Bronze,Zhan BELENIUK,2024-08-08
+Men's Greco-Roman 87kg,WRE,3,Bronze,Turpal Ali BISULTANOV,2024-08-08
+Men's Greco-Roman 97kg,WRE,1,Gold,Mohammadhadi SARAVI,2024-08-07
+Men's Greco-Roman 97kg,WRE,2,Silver,Artur ALEKSANYAN,2024-08-07
+Men's Greco-Roman 97kg,WRE,3,Bronze,Gabriel Alejandro ROSILLO KINDELAN,2024-08-07
+Men's Greco-Roman 97kg,WRE,3,Bronze,Uzur DZHUZUPBEKOV,2024-08-07
+Women's Freestyle 50kg,WRE,1,Gold,Sarah Ann HILDEBRANDT,2024-08-07
+Women's Freestyle 50kg,WRE,2,Silver,Yusneylis GUZMAN LOPEZ,2024-08-07
+Women's Freestyle 50kg,WRE,3,Bronze,SUSAKI Yui,2024-08-07
+Women's Freestyle 50kg,WRE,3,Bronze,FENG Ziqi,2024-08-07
+Women's Freestyle 53kg,WRE,1,Gold,FUJINAMI Akari,2024-08-08
+Women's Freestyle 53kg,WRE,2,Silver,Lucia Yamileth YEPEZ GUZMAN,2024-08-08
+Women's Freestyle 53kg,WRE,3,Bronze,CHOE Hyo Gyong,2024-08-08
+Women's Freestyle 53kg,WRE,3,Bronze,PANG Qianyu,2024-08-08
+Women's Freestyle 57kg,WRE,1,Gold,SAKURAI Tsugumi,2024-08-09
+Women's Freestyle 57kg,WRE,2,Silver,Anastasia NICHITA,2024-08-09
+Women's Freestyle 57kg,WRE,3,Bronze,Helen Louise MAROULIS,2024-08-09
+Women's Freestyle 57kg,WRE,3,Bronze,HONG Kexin,2024-08-09
+Women's Freestyle 62kg,WRE,1,Gold,MOTOKI Sakura,2024-08-10
+Women's Freestyle 62kg,WRE,2,Silver,Iryna KOLIADENKO,2024-08-10
+Women's Freestyle 62kg,WRE,3,Bronze,Aisuluu TYNYBEKOVA,2024-08-10
+Women's Freestyle 62kg,WRE,3,Bronze,Grace Jacob BULLEN,2024-08-10
+Women's Freestyle 68kg,WRE,1,Gold,Amit ELOR,2024-08-06
+Women's Freestyle 68kg,WRE,2,Silver,Meerim ZHUMANAZAROVA,2024-08-06
+Women's Freestyle 68kg,WRE,3,Bronze,Buse CAVUSOGLU TOSUN,2024-08-06
+Women's Freestyle 68kg,WRE,3,Bronze,OZAKI Nonoka,2024-08-06
+Women's Freestyle 76kg,WRE,1,Gold,KAGAMI Yuka,2024-08-11
+Women's Freestyle 76kg,WRE,2,Silver,Kennedy Alexis BLADES,2024-08-11
+Women's Freestyle 76kg,WRE,3,Bronze,Milaimy de la Carid. MARIN POTRILLE,2024-08-11
+Women's Freestyle 76kg,WRE,3,Bronze,Tatiana RENTERIA RENTERIA,2024-08-11
